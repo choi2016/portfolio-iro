@@ -32,7 +32,7 @@ theme_settings:
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: 
   steam:
   tumblr:
   twitter: 
@@ -40,9 +40,9 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-102258770-1"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: true #
 
   # Localization strings
   str_follow_on: "Follow on"
@@ -69,6 +69,9 @@ collections:
 markdown: kramdown
 sass:
   sass_dir: _sass
+  style: :compressed
+
+gems: [jekyll-paginate]_dir: _sass
   style: :compressed
 
 gems: [jekyll-paginate]
