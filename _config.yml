@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://choi2016.github.io" # the base hostname & protocol for your site
+url: "http://edwardchoi.club" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Edward Choi
-  avatar: avatar.png
+  avatar: images/avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
