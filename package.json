@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-iro",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choi2016/portfolio-iro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choi2016/portfolio-iro/issues"
+  },
+  "homepage": "https://github.com/choi2016/portfolio-iro#readme"
+}
